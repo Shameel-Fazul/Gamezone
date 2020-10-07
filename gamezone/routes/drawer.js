@@ -19,7 +19,8 @@ export const RootDrawerNavigator = () => (
     />
   </Navigator>
 );
-
+// <NavigationContainer> wraps <RootDrawerNavigator /> and returns a component, which is 
+// exported and imported to App.js and nested.
 export const AppNavigator = () => (
   <NavigationContainer>
     <RootDrawerNavigator />
