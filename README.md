@@ -1,2 +1,2 @@
 # Gamezone
-A React Native Application with Expo CLI. 
+React Native Application with Expo CLI. 
